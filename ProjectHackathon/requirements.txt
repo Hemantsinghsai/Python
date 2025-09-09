@@ -1,2 +1,4 @@
 google-search-results
 lxml[html_clean]
+streamlit
+newspaper3k
