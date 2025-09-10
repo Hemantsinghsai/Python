@@ -5,7 +5,7 @@ def search_web(query):
     params = {
         "engine": "google",
         "q": query,
-        "api_key": "your api key",
+        "api_key": "your api key ",
         "num": 5
     }
 
